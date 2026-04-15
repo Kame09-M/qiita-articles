@@ -1,3 +1,19 @@
+---
+title: UMAPとは？初心者向けにわかりやすく解説
+tags:
+  - Python
+  - 機械学習
+  - UMAP
+  - 次元削減
+  - NLP
+private: false
+updated_at: ''
+id: null
+organization_url_name: null
+slide: false
+ignorePublish: false
+---
+
 # UMAP（Uniform Manifold Approximation and Projection）
 
 > **一言でいうと**：「高次元データの構造を壊さずに、2〜3次元に圧縮して可視化する技術」
