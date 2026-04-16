@@ -2,13 +2,13 @@
 title: コサイン類似度って何？コサイン距離の違いは？
 tags:
   - Python
+  - 初心者
+  - 自然言語処理
   - 機械学習
   - NLP
-  - 自然言語処理
-  - 初心者
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-04-16T19:24:26+09:00'
+id: 27a6b6255f7333ea3bc2
 organization_url_name: null
 slide: false
 ignorePublish: false
