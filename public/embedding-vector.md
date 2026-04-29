@@ -2,13 +2,13 @@
 title: 埋め込みベクトル（Embedding Vector）
 tags:
   - Python
+  - 初心者
+  - 自然言語処理
   - 機械学習
   - NLP
-  - 自然言語処理
-  - 初心者
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-04-18T16:19:36+09:00'
+id: 7eacf1be576303ff6250
 organization_url_name: null
 slide: false
 ignorePublish: false
