@@ -1,7 +1,10 @@
--†--
-title: DBCV（Density-Based Clustering Validation）
+---
+title: DBCV（Density-Based Clustering Validation）とは？？
 tags:
-  - ''
+  - Python
+  - 初心者
+  - クラスタリング
+  - 機械学習
 private: false
 updated_at: ''
 id: null
