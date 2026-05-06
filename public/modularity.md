@@ -1,7 +1,10 @@
 ---
 title: モジュラリティ（Modularity）
 tags:
-  - ''
+  - Python
+  - 初心者
+  - 機械学習
+  - クラスタリング
 private: false
 updated_at: ''
 id: null
