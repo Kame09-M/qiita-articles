@@ -22,6 +22,7 @@ ignorePublish: false
 - **タイトル**：D2CS - Documents Graph Clustering using LLM supervision
 - **著者**：Yoel Ashkenazi, Yoram Louzoun ほか（Bar-Ilan大学 / Rafael）
 - **会議**：EMNLP 2025 Findings
+- **URL**：https://aclanthology.org/2025.findings-emnlp.1283v1.pdf
 - **コード**：https://github.com/D2CS-sub/D2CS
 
 ---
